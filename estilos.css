@@ -1,0 +1,32 @@
+        body {
+            font-family: sans-serif;
+            background-color: rgb(217, 222, 223);
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 16px;
+            }
+
+        p {
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color:rgb(57, 31, 201);
+            
+        }
+
+        h1 {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: rgb(92, 94, 94);
+            background-color: rgb(231, 188, 130);
+        }
+
+        h2 {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 26px;
+            font-style: italic;
+            color: darkcyan;
+        }
+
+        h5
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 16px;
+            color: rgb(2, 100, 100);   
+        }
